@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(三级项目N.0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Book.cpp
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\Book.cpp(21,19): warning C4018: “<”: 有符号/无符号不匹配
+  BookManager.cpp
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(104,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(177,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(403,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(547,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(564,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(577,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(589,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(601,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\三级项目N.0\BookManager.cpp(613,14): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  三级项目N.0.vcxproj -> D:\Files\CPP\面向对象程序设计\图书管理系统 (2)\三级项目N.0\Debug\图书管理系统.exe
